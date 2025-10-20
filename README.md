@@ -17,7 +17,7 @@ Lista de tegnologia utilzada para crear el microservicio
 * [Spring Boot](https://example.com): Version 3.5.6
 
 ## Test Aplicados a Inventario
-La pruebas realizadas a microservicio de invetario abarcaron un % 96 del total de codigo. El test que hicieron contiene lo siguiente
+La pruebas realizadas a microservicio de producto abarcaron un % 96 del total de codigo. El test que hicieron contiene lo siguiente
 * Creación de productos.
 * Manejo de errores (producto no encontrado, inventario insuficiente).
 * Prueba de integración del microservicio.
@@ -39,7 +39,7 @@ Utilize Swager para hacer la documentacion de los enpoint de los microservicios
 ## Como ingresar a los logs
 Los logs se peuden ver detro de un archivo que se llama app.log dentro del contenedor para poder verlo ingresa estos comados
 ```
-docker logs inventario-sevicio
+docker logs producto-sevicio
 ```
 ```
 cat /app/logs/app.log
