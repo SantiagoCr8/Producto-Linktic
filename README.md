@@ -3,7 +3,7 @@
 1. [Informacion General](#general-info)
 2. [Instalacion](#Instalacion)
 3. [Tegnologias](#Tegnologias)
-4. [Test Aplicados a Inventario](#Tegnologias)
+4. [Test Aplicados a Producto](#Tegnologias)
 5. [Verificar health checks](#installation)
 6. [Swager](#installation)
 7. [Como ingresar a los logs](#installation)
@@ -16,7 +16,7 @@ Lista de tegnologia utilzada para crear el microservicio
 * [Java](https://example.com): Version 17
 * [Spring Boot](https://example.com): Version 3.5.6
 
-## Test Aplicados a Inventario
+## Test Aplicados a Producto
 La pruebas realizadas a microservicio de producto abarcaron un % 96 del total de codigo. El test que hicieron contiene lo siguiente
 * Creación de productos.
 * Manejo de errores (producto no encontrado, inventario insuficiente).
